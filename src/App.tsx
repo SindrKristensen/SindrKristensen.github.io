@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Outlet, redirect} from "react-router-dom";
+import {Outlet} from "react-router-dom";
 
 function App() {
   return (
